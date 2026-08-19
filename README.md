@@ -28,5 +28,5 @@ I design end-to-end data analytics solutions that bridge relational databases, s
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/alexvaldenegrobravo](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/alexvaldenegrobravo](www.linkedin.com/in/alexvaldenegrobravo)
 * **GitHub:** [github.com/alexiticoh](https://github.com/alexiticoh)
